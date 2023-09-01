@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sarthak Kumar Shailendra</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi, I'm Sarthak Kumar Shailendra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h3 align="center">A passionate Software Engineer 👨🏻‍💻 having an experience of building scalable Backend Systems and Web applications with Springboot / Reactjs / Nodejs / Django Rest Framework and various other cutting-edge libraries and frameworks.</h3>
+
+![](https://komarev.com/ghpvc/?username=sarthak-kumar-shailendra&color=0f77bd&style=flat)
+[![Linkedin: Sarthak Kumar Shailendra](https://img.shields.io/badge/-Sarthak%20Kumar%20Shailendra-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak-kumar-shailendra/)](https://www.linkedin.com/in/sarthak-kumar-shailendra/)
+[![Portfolio: Sarthak Kumar Shailendra](https://img.shields.io/badge/-👨🏻‍💻%20Sarthak%20Kumar%20Shailendra's%20Portfolio-steelblue?style=flat-square&logo=&logoColor=white&link=https://sarthak-kumar-shailendra.github.io/portfolio/)](https://sarthak-kumar-shailendra.github.io/portfolio/)
+
+
+
 
 <!--
 **sarthak-kumar-shailendra/sarthak-kumar-shailendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
