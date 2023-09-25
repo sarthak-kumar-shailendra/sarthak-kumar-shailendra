@@ -7,8 +7,11 @@
 [![Portfolio: Sarthak Kumar Shailendra](https://img.shields.io/badge/-👨🏻‍💻%20Sarthak%20Kumar%20Shailendra's%20Portfolio-steelblue?style=flat-square&logo=&logoColor=white&link=https://sarthak-kumar-shailendra.github.io/portfolio/)](https://sarthak-kumar-shailendra.github.io/portfolio/)
 
 
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak-kumar-shailendra&show_icons=true&locale=en" alt="sarthak-kumar-shailendra" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-kumar-shailendra&" alt="sarthak-kumar-shailendra" /></p>
+-->
 <!--
 **sarthak-kumar-shailendra/sarthak-kumar-shailendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
