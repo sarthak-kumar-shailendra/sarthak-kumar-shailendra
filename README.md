@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Sarthak Kumar Shailendra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="center">A passionate engineer 👨🏻‍💻 who loves developing software.</h3>
+<h3 align="center">Looking for remote opportunities </h3>
 
 ![](https://komarev.com/ghpvc/?username=sarthak-kumar-shailendra&color=0f77bd&style=flat)
 [![Linkedin: Sarthak Kumar Shailendra](https://img.shields.io/badge/-Sarthak%20Kumar%20Shailendra-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak-kumar-shailendra/)](https://www.linkedin.com/in/sarthak-kumar-shailendra/)
