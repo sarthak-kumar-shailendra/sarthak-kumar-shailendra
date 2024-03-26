@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sarthak Kumar Shailendra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h3 align="center">A passionate engineer 👨🏻‍💻 who loves developing software.</h3>
+<h3 align="center">A passionate engineer 👨🏻‍💻 who loves developing backend systems & web applications.</h3>
 <h3 align="center">Open to remote opportunities </h3>
 
 ![](https://komarev.com/ghpvc/?username=sarthak-kumar-shailendra&color=0f77bd&style=flat)
