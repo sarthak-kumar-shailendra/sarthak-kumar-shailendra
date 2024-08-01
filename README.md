@@ -7,7 +7,7 @@
 <!-- https://github.com/user-attachments/assets/b1ecfb32-df29-4ed8-9734-8c470d5c3db4 -->
 
 <br>
-<br>
+
 <h3 align="center">Open to remote opportunities </h3>
 
 <h4 align="center"> I'm a coding chameleon, fluent in multiple languages, ready to adapt and craft solutions for any tech challenge that comes my way! </h4>
@@ -22,6 +22,7 @@
 ![](https://komarev.com/ghpvc/?username=sarthak-kumar-shailendra&color=0f77bd&style=flat)
 </h6>
 <!-- <div class="button2-margin"><a class="main-button" href="https://drive.google.com/file/d/1Csq5_jc6Oo0goOVYkmU5b8whCXvz6b00/view" target="_blank">See my resume</a></div> -->
+
 <br>
 <br>
 <img align="left" width="350" alt="Sarthak" src="https://github.com/user-attachments/assets/eab249b3-4587-404d-b452-ed51d03c4c45">
