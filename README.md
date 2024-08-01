@@ -5,8 +5,8 @@
 <br>
 <img align="right" width="350" alt="Sarthak" src="https://github.com/user-attachments/assets/1933184a-6255-4efb-b3be-2e1a8f77dae5">
 <!-- https://github.com/user-attachments/assets/b1ecfb32-df29-4ed8-9734-8c470d5c3db4 -->
-<br>
 
+<br>
 <h3 align="center">Open to remote opportunities </h3>
 
 <h4 align="center"> I'm a coding chameleon, fluent in multiple languages, ready to adapt and craft solutions for any tech challenge that comes my way! </h4>
@@ -26,7 +26,7 @@
 <br>
 <img align="left" width="350" alt="Sarthak" src="https://github.com/user-attachments/assets/eab249b3-4587-404d-b452-ed51d03c4c45">
 <!-- https://github.com/user-attachments/assets/e8aa10cb-682f-4f57-90ed-edfd97d688ab -->
-<br>
+
 <br>
 <h3 align="center"> Languages, Tools & Frameworks </h3>
 <h4 align="center">A DEDICATED FULL STACK DEVELOPER WHO LOVES TO EXPLORE EVERY TECH STACK</h4>
