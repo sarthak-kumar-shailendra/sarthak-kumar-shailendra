@@ -33,45 +33,68 @@
 <h4 align="center">A DEDICATED FULL STACK DEVELOPER WHO LOVES TO EXPLORE EVERY TECH STACK</h4>
   
 
-<kbd><a href="https://spring.io/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="40"  margin-bottom="50px" /> 
+<kbd><a href="https://spring.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" height="40"  margin-bottom="50px" />
 </a></kbd>
-<kbd><a href="https://reactjs.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"  /> 
+<kbd><a href="https://reactjs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"  />
 </a></kbd>
-<kbd><a href="https://nextjs.org/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next"  height="40" /> 
+<kbd><a href="https://nextjs.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next"  height="40" />
 </a></kbd> 
 <kbd><a href="https://www.java.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"  height="40"  />
 </a></kbd>
-<kbd><a href="https://www.python.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="40"  /> 
-</a></kbd> 
-<kbd><a href="https://www.w3schools.com/cpp/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40" /> </a></kbd> 
-<kbd><a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  height="40"  />
+<kbd><a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  height="40" />
+</a></kbd>
+<kbd><a href="https://www.w3schools.com/cpp/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40" />
+</a></kbd>
+<kbd><a href="https://nodejs.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40" />
+</a></kbd>
+<kbd><a href="https://www.django-rest-framework.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original-wordmark.svg" background="white" alt="djangorest" height="40" />
+</a></kbd>
+<kbd><a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40" />
 </a></kbd>
 <kbd><a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40"/>
+</a></kbd>
+<kbd><a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="microsoftsqlserver" height="40"/>
+</a></kbd>
+<kbd><a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  height="40"  />
+</a></kbd>
+<kbd><a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  height="40"  />
+</a></kbd>
+<kbd><a href="https://www.w3schools.com/js/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>
+</a></kbd>
+<kbd><a href="https://www.typescriptlang.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/> 
+</a></kbd> 
+<kbd><a href="https://redux.js.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"  height="40"  />
+</a></kbd>
+<kbd><a href="https://tailwindcss.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" height="40"/> 
+</a></kbd> 
+<kbd><a href="https://redis.io/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis"  height="40"  /> 
 </a></kbd> 
 <kbd><a href="https://www.docker.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"  height="40"  /> </a></kbd> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"  height="40"  /> 
+</a></kbd> 
 <kbd><a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="40"  /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"  height="40"  /> 
 </a></kbd> 
-<kbd><a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  height="40"  /> </a></kbd>  
-<kbd><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/> </a></kbd> 
-<kbd><a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40" /> 
-</a></kbd> 
-<kbd><a href="https://nodejs.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40" /> </a></kbd> 
 <kbd><a href="https://www.jenkins.io" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins"  height="40" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins"  height="40" /> 
 </a></kbd>  
 
 
