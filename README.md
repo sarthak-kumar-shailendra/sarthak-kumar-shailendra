@@ -54,8 +54,14 @@
 <kbd><a href="https://nodejs.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40" />
 </a></kbd>
+<kbd><a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" background="white" alt="django" height="40" />
+</a></kbd>
 <kbd><a href="https://www.django-rest-framework.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original-wordmark.svg" background="white" alt="djangorest" height="40" />
+</a></kbd>
+<kbd><a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="40" />
 </a></kbd>
 <kbd><a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40" />
@@ -90,11 +96,20 @@
 <kbd><a href="https://www.docker.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"  height="40"  /> 
 </a></kbd> 
+<kbd><a href="https://aws.amazon.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"  height="40" /> 
+</a></kbd>  
+<kbd><a href="https://kubernetes.io/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="kubernetes"  height="40" /> 
+</a></kbd>  
 <kbd><a href="https://git-scm.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"  height="40"  /> 
 </a></kbd> 
 <kbd><a href="https://www.jenkins.io" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins"  height="40" /> 
+</a></kbd>  
+<kbd><a href="https://sentry.io/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original-wordmark.svg" alt="sentry"  height="40" /> 
 </a></kbd>  
 
 [![An image of @sarthakkshailendra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthakkshailendra)](https://holopin.io/@sarthakkshailendra)
