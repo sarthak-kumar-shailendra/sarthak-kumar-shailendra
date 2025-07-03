@@ -83,34 +83,34 @@
 </a></kbd>
 <kbd><a href="https://www.typescriptlang.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/> 
-</a></kbd> 
+</a></kbd>
 <kbd><a href="https://redux.js.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"  height="40"  />
 </a></kbd>
 <kbd><a href="https://tailwindcss.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" height="40"/> 
-</a></kbd> 
+</a></kbd>
 <kbd><a href="https://redis.io/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis"  height="40"  /> 
-</a></kbd> 
+</a></kbd>
 <kbd><a href="https://www.docker.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"  height="40"  /> 
-</a></kbd> 
+</a></kbd>
 <kbd><a href="https://aws.amazon.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"  height="40" /> 
-</a></kbd>  
+</a></kbd>
 <kbd><a href="https://kubernetes.io/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="kubernetes"  height="40" /> 
-</a></kbd>  
-<kbd><a href="https://git-scm.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"  height="40"  /> 
-</a></kbd> 
+</a></kbd>
 <kbd><a href="https://www.jenkins.io" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins"  height="40" /> 
-</a></kbd>  
-<kbd><a href="https://sentry.io/" target="_blank"> 
+</a></kbd>
+<kbd><a href="https://git-scm.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"  height="40"  /> 
+</a></kbd>
+<kbd><a href="https://sentry.io" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original-wordmark.svg" alt="sentry"  height="40" /> 
-</a></kbd>  
+</a></kbd>
 
 [![An image of @sarthakkshailendra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthakkshailendra)](https://holopin.io/@sarthakkshailendra)
 
