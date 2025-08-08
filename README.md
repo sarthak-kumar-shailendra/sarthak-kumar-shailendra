@@ -7,6 +7,7 @@
 <!-- https://github.com/user-attachments/assets/b1ecfb32-df29-4ed8-9734-8c470d5c3db4 -->
 
 <br>
+<br>
 
 <h3 align="center">Open to remote opportunities </h3>
 
