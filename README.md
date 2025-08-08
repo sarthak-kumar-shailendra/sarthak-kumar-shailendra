@@ -33,7 +33,7 @@
 <h3 align="center"> Languages, Tools & Frameworks </h3>
 <h4 align="center">A DEDICATED FULL STACK DEVELOPER WHO LOVES TO EXPLORE EVERY TECH STACK</h4>
 
-<div align="center">
+<p align="center"`>
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" height="40"/>](https://spring.io/)
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -87,7 +87,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original-wordmark.svg" alt="sentry" height="40"/>](https://sentry.io)
 
-</div>
+</p>
 
 <br>
 <br>
