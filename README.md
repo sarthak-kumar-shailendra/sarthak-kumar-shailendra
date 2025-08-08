@@ -33,7 +33,7 @@
 <h3 align="center"> Languages, Tools & Frameworks </h3>
 <h4 align="center">A DEDICATED FULL STACK DEVELOPER WHO LOVES TO EXPLORE EVERY TECH STACK</h4>
 
-<p align="center"`>
+<p align="center">
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" height="40"/>](https://spring.io/)
 &nbsp;&nbsp;&nbsp;&nbsp;
