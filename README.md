@@ -7,7 +7,6 @@
 <!-- https://github.com/user-attachments/assets/b1ecfb32-df29-4ed8-9734-8c470d5c3db4 -->
 
 <br>
-<br>
 
 <h3 align="center">Open to remote opportunities </h3>
 
@@ -33,7 +32,7 @@
 <h3 align="center"> Languages, Tools & Frameworks </h3>
 <h4 align="center">A DEDICATED FULL STACK DEVELOPER WHO LOVES TO EXPLORE EVERY TECH STACK</h4>
 
-<p align="center">
+<div align="center">
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" height="40"/>](https://spring.io/)
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -87,7 +86,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original-wordmark.svg" alt="sentry" height="40"/>](https://sentry.io)
 
-</p>
+</div>
 
 <br>
 <br>
